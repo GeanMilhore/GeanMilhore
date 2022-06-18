@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Olá meu nome é Gean, e sou Desenvolvedor Fullstack 🚀</h1>
+  <h1>Hello there 🖖, this is Gean and i'm a Fullstack Developer 🚀</h1>
 </div>
 
 <div align="center" >

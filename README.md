@@ -1,7 +1,7 @@
 # Hello there 🖖, this is Gean and i'm a Fullstack Developer 🚀
 
 
-- 🔭 I’m currently working on Supera Inovação e Tecnologia.
+- 🔭 I’m currently working at Supera Inovação e Tecnologia.
 - 🌱 I’m currently learning Containers and Virtualization.
 
 🛸 I'm interested in the entire software development process, both its application in code and the structure in which it will be supported, so my studies are currently focused on becoming a hybrid between fullstack and devops.
